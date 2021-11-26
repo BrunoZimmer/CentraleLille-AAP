@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "traces.h": "c",
+        "check.h": "c",
+        "list.h": "c",
+        "stdio.h": "c",
+        "type_traits": "c"
+    }
+}

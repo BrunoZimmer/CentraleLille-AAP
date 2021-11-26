@@ -1,0 +1,5 @@
+AAP 2020 - Projet "Séance 2"
+
+Pour initialiser le dépôt, exécutez la commande <make> sur le shell pour faire l'executable du program et après le ./TEA.exe pour executer le program. 
+
+Pour créer l'image du archive <.dot> on peut utiliser le commande <dot ./Outputs/listPNG.dot -T png -o ./Outputs/OutputPNGName.png>
